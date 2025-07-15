@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
  A function that queries the Reddit API and prints the titles.
 """
